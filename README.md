@@ -24,9 +24,11 @@ Aqui estão alguns dos programas e habilidades tecnológicas que eu domino 😎:
 ---
 ## 📚 O que estou estudando agora?
 
-### 🎮 **Unity 2D**.
+### DevOps - Kubernetes e Orquestração Docker
 
-### 🖥️ **Animation 2D com Toon Boom Harmony.**
+### Python.
+
+### Data Science.
 
 ---
 ## 🍿 No meu tempo livre eu gosto:
