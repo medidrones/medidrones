@@ -1,44 +1,155 @@
 
-# Olá, eu sou Jorge Medina
+<img width="1983" height="793" alt="Banner para perfil - tamanho original" src="https://github.com/user-attachments/assets/0b38f7e7-39e7-4972-a176-ab56f2f59d83" />
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-##  👨🏽‍💻 **Sobre mim**
+# 👋 Olá, eu sou Jorge Medina
 
-Sou um engenheiro de software brasileiro que mora em São Paulo, São Paulo. Trabalho com tecnologia desde 2005 e durante este período da minha vida profissional, trabalhei com os mais diversos tipos de projetos como: **back-end**, e **DevOps**.
+## Senior Software Engineer | Solutions Architect | AI Engineer
 
-Se você me perguntasse sobre o meu projeto favorito em que já trabalhei, eu sempre diria que é o que vem a seguir. Acredito que cada novo projeto vem com seu próprio conjunto único de desafios e oportunidades de crescimento. Acredito que sempre há espaço para nos aprimorarmos.
-
-Tenho dois objetivos **principais**:
-
-Meu **primeiro** objetivo é alavancar minhas habilidades como desenvolvedor de software para ajudar a facilitar a vida das pessoas.
-
-Meu **segundo** objetivo é compartilhar meu conhecimento, assim como adquiri e continuo adquirindo conhecimento através das experiências, lições e tutoriais de outras pessoas. Pretendo transmitir meus conhecimentos e, se possível, causar um impacto positivo na vida de alguém.
+Founder & CTO @ Medicode
+Founder & CTO @ Medidrones
 
 ---
-## **Minhas habilidades tecnológicas**
-Aqui estão alguns dos programas e habilidades tecnológicas que eu domino 😎:
 
-![Tech skills](stack-hills.png)
+## 🚀 Sobre Mim
 
----
-## 📚 O que estou estudando agora?
+Profissional com mais de 20 anos de experiência em Engenharia de Software, Arquitetura de Soluções, Inteligência Artificial e Geotecnologias.
 
-### DevOps - Kubernetes e Orquestração Docker
+Atualmente atuo como Senior Software Engineer na Softplan, participando da evolução de sistemas corporativos de missão crítica utilizados por instituições públicas brasileiras.
 
-### Python.
+Também sou Founder & CTO da Medicode e da Medidrones, empresas focadas em desenvolvimento de software, inteligência artificial, geoprocessamento, drones e soluções geoespaciais.
 
-### Data Science.
+Minha missão é conectar tecnologia, inteligência artificial e inteligência geoespacial para transformar dados em decisões estratégicas.
 
 ---
-## 🍿 No meu tempo livre eu gosto:
 
-Deixa eu te falar... Estudo muito 😅. Leio livros, artigos e assisto tutoriais no YouTube.
-Também, procuro aos domingos, tirar o dia de qualidade com minha familia.
+## 🏢 Atuação Atual
 
+### Softplan
 
-<!--- Shields -->
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-074F97?&style=for-the-badge&logo=LinkedIn&logoColor=white
+Desenvolvimento de soluções corporativas escaláveis para órgãos públicos, utilizando arquiteturas modernas, microsserviços, GraphQL, Kubernetes e computação em nuvem.
 
-<!--- Urls ---->
-[linkedin-url]: https://www.linkedin.com/in/jorge-medina-176672163/
+### Medicode
+
+Empresa especializada em:
+
+* Desenvolvimento de Software
+* Arquitetura de Soluções
+* APIs e Integrações
+* Cloud Computing
+* Inteligência Artificial
+* Consultoria Tecnológica
+
+### Medidrones
+
+Empresa especializada em:
+
+* Geoprocessamento
+* Sistemas de Informações Geográficas (SIG)
+* Sensoriamento Remoto
+* Fotogrametria
+* Georreferenciamento
+* Cartografia Digital
+* Soluções com Drones (UAV)
+* Inteligência Geoespacial
+
+---
+
+## 💻 Stack Principal
+
+### Backend
+
+* .NET 8
+* ASP.NET Core
+* C#
+* GraphQL
+* REST APIs
+* Entity Framework Core
+* PostgreSQL
+* Redis
+* RabbitMQ
+* OpenSearch
+
+### Cloud & DevOps
+
+* AWS
+* Kubernetes
+* Docker
+* GitHub Actions
+* GitLab CI/CD
+* Azure DevOps
+
+### Frontend
+
+* React
+* TypeScript
+* Module Federation
+* Micro Frontends
+
+### IA & Dados
+
+* Artificial Intelligence
+* Machine Learning
+* Python
+* Analytics
+* Big Data
+
+### Geotecnologias
+
+* GIS
+* QGIS
+* PostGIS
+* GeoServer
+* Cartografia
+* Geodésia
+* Sensoriamento Remoto
+* Fotogrametria
+* Drones (UAV)
+
+---
+
+## 🎓 Formação e Especializações
+
+* Harvard – Artificial Intelligence
+* MBA Arquitetura .NET (FIAP)
+* MBA Analytics & Big Data
+* Engenharia de Software
+* Gestão da Tecnologia da Informação
+
+Especializações em andamento:
+
+* Topografia e Sensoriamento Remoto
+* Sistemas de Informações Geográficas (SIG)
+* Agrimensura
+* Geodésia, Cartografia e Geoprocessamento
+
+---
+
+## 📈 Áreas de Interesse
+
+* Software Architecture
+* Enterprise Architecture
+* Artificial Intelligence
+* Geospatial Intelligence
+* Digital Transformation
+* Cloud Native Applications
+* Smart Cities
+* Agritech
+* GovTech
+
+---
+
+## 🌎 Conecte-se comigo
+
+LinkedIn:
+[www.linkedin.com/in/jorge-medina-176672163](http://www.linkedin.com/in/jorge-medina-176672163)
+
+Site:
+[www.medidrones.com.br](http://www.medidrones.com.br)
+
+GitHub:
+github.com/medidrones
+
+---
+
+### "Transformando dados em inteligência estratégica através da tecnologia e geotecnologias."
