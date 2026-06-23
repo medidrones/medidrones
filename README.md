@@ -142,7 +142,7 @@ Especializações em andamento:
 ## 🌎 Conecte-se comigo
 
 LinkedIn:
-[www.linkedin.com/in/jorge-medina-176672163](http://www.linkedin.com/in/jorge-medina-176672163)
+[www.linkedin.com/in/jorgemedinaoficial](http://www.linkedin.com/in/jorgemedinaoficial)
 
 Site:
 [www.medidrones.com.br](http://www.medidrones.com.br)
